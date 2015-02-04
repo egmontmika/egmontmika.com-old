@@ -36,6 +36,8 @@ h1 {
   font-size: 2.2em;
   line-height: 1.4em;
   font-weight: 600;
+
+
 }
 h2 {
   font-size: 1.4em;
@@ -43,6 +45,7 @@ h2 {
   font-weight: 400;
   margin-bottom: -0.6em;
   color: rgba(122, 9, 1, 1);
+
 }
 h3 {
   font-size: 1.2em;
@@ -85,16 +88,20 @@ article img {
   height: auto;
 }
 body > main > section > article > figure {
-  margin: 2em 0;
+  margin: 0.3em 0;
   width: 100%;
 }
 body > main > section > article > figure > img {
   display: block;
-  max-height: 20em;
-  width: auto;
-  margin-left: auto;
+  max-height: auto;
+  width: 37em;
+  margin-left: 0;
   margin-right: auto;
+  margin-bottom: 3em;
 }
+
+
+
 
 /* Footer 2014 Egmont Mika grey box */
 body > main > footer {
@@ -114,6 +121,9 @@ body > main > footer > p {
   border-bottom-width: 1em;
 
 }
+
+
+
 /* */
 body > main {
   max-width: 60em;
