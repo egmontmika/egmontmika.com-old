@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Egmont Mika</title>
-    <link>http://egmontmika.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Egmont Mika</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 18 Mar 2015 03:01:45 +0000</lastBuildDate>
-    <atom:link href="http://egmontmika.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Disciple&#39;s Defeat and Victory</title>
-      <link>http://egmontmika.com/blog/a-disciple%27s-defeat-and-victory/</link>
+      <link>http://localhost:1313/blog/a-disciple%27s-defeat-and-victory/</link>
       <pubDate>Wed, 18 Mar 2015 03:01:45 +0000</pubDate>
       
-      <guid>http://egmontmika.com/blog/a-disciple%27s-defeat-and-victory/</guid>
+      <guid>http://localhost:1313/blog/a-disciple%27s-defeat-and-victory/</guid>
       <description>
 
 &lt;p&gt;The road of discipleship is a rocky road.&lt;/p&gt;
@@ -47,17 +47,17 @@ If you expected it to just take you from success to success and “from glory to
 &lt;h5 id=&#34;geoffrey:103f00a58cbb74d424bc69bf1165a166&#34;&gt;Geoffrey&lt;/h5&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Thanks, Egmont. Your really pointed out many important things. The Lord just doesn&amp;rsquo;t follow any human standards. We should realise that he has his own ways, and follow them. Thanks again.&lt;/p&gt;
+&lt;p&gt;Thanks, Egmont. You really pointed out many important things. The Lord just doesn&amp;rsquo;t follow any human standards. We should realise that he has his own ways, and follow them. Thanks again.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
       <title>Don&#39;t Work for God! </title>
-      <link>http://egmontmika.com/blog/don%27t-work-for-god/</link>
+      <link>http://localhost:1313/blog/don%27t-work-for-god/</link>
       <pubDate>Wed, 04 Mar 2015 03:01:45 +0000</pubDate>
       
-      <guid>http://egmontmika.com/blog/don%27t-work-for-god/</guid>
+      <guid>http://localhost:1313/blog/don%27t-work-for-god/</guid>
       <description>
 
 &lt;p&gt;Don’t work &lt;em&gt;for&lt;/em&gt; the Lord! Work &lt;em&gt;with&lt;/em&gt; him!&lt;/p&gt;
@@ -102,10 +102,10 @@ If you expected it to just take you from success to success and “from glory to
     
     <item>
       <title>Just Do It! </title>
-      <link>http://egmontmika.com/blog/just-do-it%21/</link>
+      <link>http://localhost:1313/blog/just-do-it%21/</link>
       <pubDate>Wed, 18 Feb 2015 03:01:45 +0000</pubDate>
       
-      <guid>http://egmontmika.com/blog/just-do-it%21/</guid>
+      <guid>http://localhost:1313/blog/just-do-it%21/</guid>
       <description>&lt;p&gt;There is no better way of teaching and learning than the hands-on training in real life situations.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -134,10 +134,10 @@ If you expected it to just take you from success to success and “from glory to
     
     <item>
       <title>Dealing with the Shameful</title>
-      <link>http://egmontmika.com/blog/dealing-with-the-shameful/</link>
+      <link>http://localhost:1313/blog/dealing-with-the-shameful/</link>
       <pubDate>Wed, 04 Feb 2015 03:01:45 +0000</pubDate>
       
-      <guid>http://egmontmika.com/blog/dealing-with-the-shameful/</guid>
+      <guid>http://localhost:1313/blog/dealing-with-the-shameful/</guid>
       <description>
 
 &lt;p&gt;There are certain things I absolutely don’t feel happy to talk about.&lt;/p&gt;
@@ -186,10 +186,10 @@ If you expected it to just take you from success to success and “from glory to
     
     <item>
       <title>Ranking Jesus&#39; Words</title>
-      <link>http://egmontmika.com/blog/ranking-jesus-words/</link>
+      <link>http://localhost:1313/blog/ranking-jesus-words/</link>
       <pubDate>Thu, 22 Jan 2015 03:01:45 +0000</pubDate>
       
-      <guid>http://egmontmika.com/blog/ranking-jesus-words/</guid>
+      <guid>http://localhost:1313/blog/ranking-jesus-words/</guid>
       <description>&lt;p&gt;Jesus said: “Go and make disciples!” As a disciple of Jesus, how do those words rank on your list?&lt;/p&gt;
 
 &lt;p&gt;When you think of your work, your spare time, your daily routines, and weekly obligations, including your spiritual engagements and church activities, where on that list would you place your response to Jesus’ words about making disciples?&lt;/p&gt;
@@ -210,10 +210,10 @@ If you expected it to just take you from success to success and “from glory to
     
     <item>
       <title>About</title>
-      <link>http://egmontmika.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 17 Jan 2015 22:10:00 +0000</pubDate>
       
-      <guid>http://egmontmika.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>
 
 &lt;p&gt;I am Egmont Mika, a teacher and a mentor, passionate about God and people.
@@ -240,20 +240,20 @@ The objective is to fulfill the vision that Jesus gave us, to let the gospel go 
     
     <item>
       <title>Contact</title>
-      <link>http://egmontmika.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Thu, 15 Jan 2015 22:11:00 +0000</pubDate>
       
-      <guid>http://egmontmika.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;iframe height=&#34;517&#34; allowTransparency=&#34;true&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;width:100%;border:none&#34;  src=&#34;https://enegmontmika.wufoo.com/embed/z1ivn2t40wn1kon/&#34;&gt;&lt;a href=&#34;https://enegmontmika.wufoo.com/forms/z1ivn2t40wn1kon/&#34;&gt;Fill out the contact form!&lt;/a&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>A Jesus Community</title>
-      <link>http://egmontmika.com/blog/a-jesus-community/</link>
+      <link>http://localhost:1313/blog/a-jesus-community/</link>
       <pubDate>Tue, 06 Jan 2015 06:39:19 +0000</pubDate>
       
-      <guid>http://egmontmika.com/blog/a-jesus-community/</guid>
+      <guid>http://localhost:1313/blog/a-jesus-community/</guid>
       <description>&lt;p&gt;It doesn&amp;rsquo;t take an apostle or a prophet, an appointed church leader or a church planter in order to form a simple community of disciples.&lt;/p&gt;
 
 &lt;p&gt;My wife and I do not hold any of these offices and we never formally started a church. In fact, we never attempted to.&lt;/p&gt;
@@ -286,10 +286,10 @@ The objective is to fulfill the vision that Jesus gave us, to let the gospel go 
     
     <item>
       <title>God&#39;s Family - an Institution?</title>
-      <link>http://egmontmika.com/blog/gods-family-an-institution/</link>
+      <link>http://localhost:1313/blog/gods-family-an-institution/</link>
       <pubDate>Thu, 11 Dec 2014 06:34:40 +0000</pubDate>
       
-      <guid>http://egmontmika.com/blog/gods-family-an-institution/</guid>
+      <guid>http://localhost:1313/blog/gods-family-an-institution/</guid>
       <description>&lt;p&gt;God wants a family. Yet, man builds him an institution.&lt;/p&gt;
 
 &lt;p&gt;Are you a father or a mother? Then imagine what it would feel like, if your children, as they grow up, turned your family into an institution.&lt;/p&gt;
@@ -331,10 +331,10 @@ The objective is to fulfill the vision that Jesus gave us, to let the gospel go 
     
     <item>
       <title>Dare Letting Go!</title>
-      <link>http://egmontmika.com/blog/dare-letting-go/</link>
+      <link>http://localhost:1313/blog/dare-letting-go/</link>
       <pubDate>Wed, 26 Nov 2014 08:46:54 +0000</pubDate>
       
-      <guid>http://egmontmika.com/blog/dare-letting-go/</guid>
+      <guid>http://localhost:1313/blog/dare-letting-go/</guid>
       <description>&lt;p&gt;Do you want to move forward? Make a positive change in your life?&lt;/p&gt;
 
 &lt;p&gt;But feel stuck?&lt;/p&gt;
@@ -381,10 +381,10 @@ The objective is to fulfill the vision that Jesus gave us, to let the gospel go 
     
     <item>
       <title>Are You Quite Normal?</title>
-      <link>http://egmontmika.com/blog/are-you-quite-normal/</link>
+      <link>http://localhost:1313/blog/are-you-quite-normal/</link>
       <pubDate>Wed, 12 Nov 2014 06:39:19 +0000</pubDate>
       
-      <guid>http://egmontmika.com/blog/are-you-quite-normal/</guid>
+      <guid>http://localhost:1313/blog/are-you-quite-normal/</guid>
       <description>&lt;p&gt;For being a disciple of Jesus, people may regard you as not being quite normal.&lt;/p&gt;
 
 &lt;p&gt;But what is ”normal”? In relation to what?&lt;/p&gt;
@@ -411,10 +411,10 @@ The objective is to fulfill the vision that Jesus gave us, to let the gospel go 
     
     <item>
       <title>Brainwashing for You</title>
-      <link>http://egmontmika.com/blog/brainwashing-for-you/</link>
+      <link>http://localhost:1313/blog/brainwashing-for-you/</link>
       <pubDate>Wed, 29 Oct 2014 06:59:43 +0000</pubDate>
       
-      <guid>http://egmontmika.com/blog/brainwashing-for-you/</guid>
+      <guid>http://localhost:1313/blog/brainwashing-for-you/</guid>
       <description>&lt;p&gt;Brainwashing – the cleansing of your mind – can be something quite positive. It all depends on who is doing it, how it is done, and what the purpose is. Just consider these words from an apostle:&lt;/p&gt;
 
 &lt;p&gt; “Do not conform any longer to the pattern of this world, but be transformed by the renewing of your mind.” (Ro 12:2 NIV)&lt;/p&gt;
@@ -453,10 +453,10 @@ The objective is to fulfill the vision that Jesus gave us, to let the gospel go 
     
     <item>
       <title>Stepping out of the Boat</title>
-      <link>http://egmontmika.com/blog/stepping-out-of-the-boat/</link>
+      <link>http://localhost:1313/blog/stepping-out-of-the-boat/</link>
       <pubDate>Thu, 16 Oct 2014 07:26:42 +0000</pubDate>
       
-      <guid>http://egmontmika.com/blog/stepping-out-of-the-boat/</guid>
+      <guid>http://localhost:1313/blog/stepping-out-of-the-boat/</guid>
       <description>
 
 &lt;p&gt;Jesus didn&amp;rsquo;t promise you a safe and predictable life.&lt;/p&gt;
@@ -529,10 +529,10 @@ The objective is to fulfill the vision that Jesus gave us, to let the gospel go 
     
     <item>
       <title>More than Receiving</title>
-      <link>http://egmontmika.com/blog/more-than-receiving/</link>
+      <link>http://localhost:1313/blog/more-than-receiving/</link>
       <pubDate>Thu, 02 Oct 2014 17:57:23 +0000</pubDate>
       
-      <guid>http://egmontmika.com/blog/more-than-receiving/</guid>
+      <guid>http://localhost:1313/blog/more-than-receiving/</guid>
       <description>&lt;p&gt;Following Jesus is more than about receiving his blessings.&lt;/p&gt;
 
 &lt;p&gt;A major portion of contemporary church teaching and culture has its focus on the blessings of the New Covenant.&lt;/p&gt;
@@ -569,10 +569,10 @@ The objective is to fulfill the vision that Jesus gave us, to let the gospel go 
     
     <item>
       <title>What&#39;s Your Jesus Story?</title>
-      <link>http://egmontmika.com/blog/whats-your-jesus-story/</link>
+      <link>http://localhost:1313/blog/whats-your-jesus-story/</link>
       <pubDate>Thu, 18 Sep 2014 22:20:02 +0000</pubDate>
       
-      <guid>http://egmontmika.com/blog/whats-your-jesus-story/</guid>
+      <guid>http://localhost:1313/blog/whats-your-jesus-story/</guid>
       <description>&lt;p&gt;Don&amp;rsquo;t miss sharing your very best story!&lt;/p&gt;
 
 &lt;p&gt;As a disciple of Jesus, you have your special story. It’s your story about that personal encounter with Jesus which caused you to respond to his call and surrender to him. It’s the story about how you “got saved”. It&amp;rsquo;s your Jesus story.&lt;/p&gt;
