@@ -75,7 +75,7 @@
     
       <article>
         <header>
-          <h1><a href='http://egmontmika.com/blog/faith-isn%27t-religion/'>Faith Isn&#39;t Religion </a></h1>
+          <h1><a href='http://localhost:1313/blog/faith-isn%27t-religion/'>Faith Isn&#39;t Religion </a></h1>
           <p><time>2015/04/01</time>&nbsp;&nbsp;400 words</p>
         </header>
         <p>Following Jesus calls for faith. Yet, faith and religion aren’t the same. Faith isn&rsquo;t religion.</p>
@@ -110,12 +110,12 @@
 
 <p>For you, however, that doesn’t matter anymore. For you, it has become a necessity.</p>
 
-        <footer><p><a href='http://egmontmika.com/blog/faith-isn%27t-religion/'>More</a><p></footer>
+        <footer><p><a href='http://localhost:1313/blog/faith-isn%27t-religion/'>More</a><p></footer>
       </article>
     
       <article>
         <header>
-          <h1><a href='http://egmontmika.com/blog/a-disciple%27s-defeat-and-victory/'>A Disciple&#39;s Defeat and Victory</a></h1>
+          <h1><a href='http://localhost:1313/blog/a-disciple%27s-defeat-and-victory/'>A Disciple&#39;s Defeat and Victory</a></h1>
           <p><time>2015/03/18</time>&nbsp;&nbsp;400 words</p>
         </header>
         
@@ -155,7 +155,7 @@ If you expected it to just take you from success to success and “from glory to
 <p>Thanks, Egmont. You really pointed out many important things. The Lord just doesn&rsquo;t follow any human standards. We should realise that he has his own ways, and follow them. Thanks again.</p>
 </blockquote>
 
-        <footer><p><a href='http://egmontmika.com/blog/a-disciple%27s-defeat-and-victory/'>More</a><p></footer>
+        <footer><p><a href='http://localhost:1313/blog/a-disciple%27s-defeat-and-victory/'>More</a><p></footer>
       </article>
     
     </footer>
@@ -176,5 +176,8 @@ if (document.URL.search("localhost") == -1) {
 }
 </script>
 
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
