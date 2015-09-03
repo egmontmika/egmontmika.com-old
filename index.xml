@@ -2,50 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Egmont Mika</title>
-    <link>http://localhost:1313/</link>
+    <link>http://egmontmika.com/</link>
     <description>Recent content on Egmont Mika</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 15 Sep 2015 06:39:19 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Share Your Table</title>
-      <link>http://localhost:1313/blog/share-your-table/</link>
-      <pubDate>Tue, 15 Sep 2015 06:39:19 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/share-your-table/</guid>
-      <description>&lt;p&gt;Hospitality is an expression of God’s character.&lt;/p&gt;
-
-&lt;p&gt;God is welcoming, generous, nourishing, lavish, joyful… He is hospital. And this is what we communicate.&lt;/p&gt;
-
-&lt;p&gt;It’s as easy as sharing a meal with a friend, a collegue, a neighbor, or a stranger. Or why not a beggar! God is indiscriminate. He is including.&lt;/p&gt;
-
-&lt;p&gt;Your meal doesn’t have to be fancy. Don’t let it be exclusive; there is no need to impress. Just share what you have, it may be abundant or little, a three-course dinner or a glas of water. Or a piece of chocolate or a banana. Just act according to the situation.&lt;/p&gt;
-
-&lt;p&gt;It’s not so much about the food itsself, but your attitude. It’s about what people sense when they are together with you.&lt;/p&gt;
-
-&lt;p&gt;It’s an expression of grace.&lt;/p&gt;
-
-&lt;p&gt;You give them an experience of being accepted, respected, appreciated and honored. A sense of belonging without having to qualify or defend themselves.&lt;/p&gt;
-
-&lt;p&gt;It breaks the power of fear and alienation and prejudice.&lt;/p&gt;
-
-&lt;p&gt;It’s an expression of freedom.&lt;/p&gt;
-
-&lt;p&gt;You create an environment free of control or accusations. Devoid of the need to impress or pretend. Allowing people to be who they are. Sharing your love. Creating community.&lt;/p&gt;
-
-&lt;p&gt;That&amp;rsquo;s an expression of who God is.&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="http://egmontmika.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Share a Meal</title>
-      <link>http://localhost:1313/blog/share-a-meal/</link>
+      <link>http://egmontmika.com/blog/share-a-meal/</link>
       <pubDate>Tue, 15 Sep 2015 06:39:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/share-a-meal/</guid>
-      <description>&lt;p&gt;Hospitality is an expression of God’s character.&lt;/p&gt;
+      <guid>http://egmontmika.com/blog/share-a-meal/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Hospitality is an expression of God’s character.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Our Lord is a welcoming God. He is generous, nourishing, lavish, joyful…&lt;/p&gt;
 
@@ -74,11 +44,41 @@
     </item>
     
     <item>
+      <title>Share Your Table</title>
+      <link>http://egmontmika.com/blog/share-your-table/</link>
+      <pubDate>Tue, 15 Sep 2015 06:39:19 +0000</pubDate>
+      
+      <guid>http://egmontmika.com/blog/share-your-table/</guid>
+      <description>&lt;p&gt;Hospitality is an expression of God’s character.&lt;/p&gt;
+
+&lt;p&gt;God is welcoming, generous, nourishing, lavish, joyful… He is hospital. And this is what we communicate.&lt;/p&gt;
+
+&lt;p&gt;It’s as easy as sharing a meal with a friend, a collegue, a neighbor, or a stranger. Or why not a beggar! God is indiscriminate. He is including.&lt;/p&gt;
+
+&lt;p&gt;Your meal doesn’t have to be fancy. Don’t let it be exclusive; there is no need to impress. Just share what you have, it may be abundant or little, a three-course dinner or a glas of water. Or a piece of chocolate or a banana. Just act according to the situation.&lt;/p&gt;
+
+&lt;p&gt;It’s not so much about the food itsself, but your attitude. It’s about what people sense when they are together with you.&lt;/p&gt;
+
+&lt;p&gt;It’s an expression of grace.&lt;/p&gt;
+
+&lt;p&gt;You give them an experience of being accepted, respected, appreciated and honored. A sense of belonging without having to qualify or defend themselves.&lt;/p&gt;
+
+&lt;p&gt;It breaks the power of fear and alienation and prejudice.&lt;/p&gt;
+
+&lt;p&gt;It’s an expression of freedom.&lt;/p&gt;
+
+&lt;p&gt;You create an environment free of control or accusations. Devoid of the need to impress or pretend. Allowing people to be who they are. Sharing your love. Creating community.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s an expression of who God is.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mentorship - Respect, Freedom and Trust</title>
-      <link>http://localhost:1313/blog/respect-freedom-and-trust/</link>
+      <link>http://egmontmika.com/blog/respect-freedom-and-trust/</link>
       <pubDate>Sat, 15 Aug 2015 06:39:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/respect-freedom-and-trust/</guid>
+      <guid>http://egmontmika.com/blog/respect-freedom-and-trust/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Definition&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;When Jesus commanded his disciples to go out and make disciples, they understood this as building a &lt;strong&gt;&lt;em&gt;master-disciple&lt;/em&gt;&lt;/strong&gt; relationship. The apostle Paul translated it into his greco-roman world by instead talking about a &lt;strong&gt;&lt;em&gt;father-son&lt;/em&gt;&lt;/strong&gt; relationship. Today, we often use the term &lt;strong&gt;&lt;em&gt;mentorship&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
@@ -129,10 +129,10 @@
     
     <item>
       <title>Give to the Lord...</title>
-      <link>http://localhost:1313/blog/give-to-the-lord/</link>
+      <link>http://egmontmika.com/blog/give-to-the-lord/</link>
       <pubDate>Fri, 12 Jun 2015 06:39:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/give-to-the-lord/</guid>
+      <guid>http://egmontmika.com/blog/give-to-the-lord/</guid>
       <description>&lt;p&gt;Give to the Lord what he is asking you for!&lt;/p&gt;
 
 &lt;p&gt;No one is born as a disciple of Jesus, far less a disciple maker. Yet, this is what Jesus wants us to be, a disciple and a disciple maker.&lt;/p&gt;
@@ -161,10 +161,10 @@
     
     <item>
       <title>How You Can Learn Patience</title>
-      <link>http://localhost:1313/blog/how-you-can-learn-patience/</link>
+      <link>http://egmontmika.com/blog/how-you-can-learn-patience/</link>
       <pubDate>Tue, 26 May 2015 06:39:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/how-you-can-learn-patience/</guid>
+      <guid>http://egmontmika.com/blog/how-you-can-learn-patience/</guid>
       <description>&lt;p&gt;&lt;em&gt;”I want patience, and I want it right NOW!!!”&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The more you yell, the more you’ll miss it.&lt;/p&gt;
@@ -195,10 +195,10 @@
     
     <item>
       <title>Finding Simplicity</title>
-      <link>http://localhost:1313/blog/finding-simplicity/</link>
+      <link>http://egmontmika.com/blog/finding-simplicity/</link>
       <pubDate>Fri, 15 May 2015 06:39:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/finding-simplicity/</guid>
+      <guid>http://egmontmika.com/blog/finding-simplicity/</guid>
       <description>&lt;p&gt;Simplicity isn’t the same as poverty. Poverty is a curse, simplicity is an accomplishment.&lt;/p&gt;
 
 &lt;p&gt;The accomplishment of the wise.&lt;/p&gt;
@@ -231,10 +231,10 @@
     
     <item>
       <title>Overcoming Fear</title>
-      <link>http://localhost:1313/blog/overcoming-fear/</link>
+      <link>http://egmontmika.com/blog/overcoming-fear/</link>
       <pubDate>Wed, 29 Apr 2015 06:39:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/overcoming-fear/</guid>
+      <guid>http://egmontmika.com/blog/overcoming-fear/</guid>
       <description>&lt;p&gt;The enemy of faith is fear.&lt;/p&gt;
 
 &lt;p&gt;Fearing sickness, death and final judgement, fearing failure… Fearing what others might think of me, fearing their rejection. Or their complacency. Or fearing my boss, my bills, the weather or just anything that might happen in the future.&lt;/p&gt;
@@ -257,10 +257,10 @@
     
     <item>
       <title>What&#39;s the Perfect Church?</title>
-      <link>http://localhost:1313/blog/what%27s-the-perfect-church/</link>
+      <link>http://egmontmika.com/blog/what%27s-the-perfect-church/</link>
       <pubDate>Wed, 15 Apr 2015 06:39:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/what%27s-the-perfect-church/</guid>
+      <guid>http://egmontmika.com/blog/what%27s-the-perfect-church/</guid>
       <description>&lt;p&gt;There is no such thing as a perfect church. Most Christians agree on that!&lt;/p&gt;
 
 &lt;p&gt;Why then does it shock us when something happens in the church that absolutely should not have happened? Yes, of course, it’s okay if it happens in the world, but in the church, among the saints?!&lt;/p&gt;
@@ -293,10 +293,10 @@
     
     <item>
       <title>Faith Isn&#39;t Religion</title>
-      <link>http://localhost:1313/blog/faith-isn%27t-religion/</link>
+      <link>http://egmontmika.com/blog/faith-isn%27t-religion/</link>
       <pubDate>Wed, 01 Apr 2015 06:39:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/faith-isn%27t-religion/</guid>
+      <guid>http://egmontmika.com/blog/faith-isn%27t-religion/</guid>
       <description>&lt;p&gt;Following Jesus calls for faith.&lt;/p&gt;
 
 &lt;p&gt;Yet, faith and religion aren’t the same. Faith isn’t religion.&lt;/p&gt;
@@ -339,10 +339,10 @@
     
     <item>
       <title>A Disciple&#39;s Defeat and Victory</title>
-      <link>http://localhost:1313/blog/defeat-and-victory/</link>
+      <link>http://egmontmika.com/blog/defeat-and-victory/</link>
       <pubDate>Wed, 18 Mar 2015 03:01:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/defeat-and-victory/</guid>
+      <guid>http://egmontmika.com/blog/defeat-and-victory/</guid>
       <description>
 
 &lt;p&gt;The road of discipleship is a rocky road.&lt;/p&gt;
@@ -384,10 +384,10 @@ If you expected it to just take you from success to success and “from glory to
     
     <item>
       <title>Don&#39;t Work for God! </title>
-      <link>http://localhost:1313/blog/don%27t-work-for-god/</link>
+      <link>http://egmontmika.com/blog/don%27t-work-for-god/</link>
       <pubDate>Wed, 04 Mar 2015 03:01:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/don%27t-work-for-god/</guid>
+      <guid>http://egmontmika.com/blog/don%27t-work-for-god/</guid>
       <description>
 
 &lt;p&gt;Don’t work &lt;em&gt;for&lt;/em&gt; the Lord! Work &lt;em&gt;with&lt;/em&gt; him!&lt;/p&gt;
@@ -432,10 +432,10 @@ If you expected it to just take you from success to success and “from glory to
     
     <item>
       <title>Just Do It! </title>
-      <link>http://localhost:1313/blog/just-do-it%21/</link>
+      <link>http://egmontmika.com/blog/just-do-it%21/</link>
       <pubDate>Wed, 18 Feb 2015 03:01:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/just-do-it%21/</guid>
+      <guid>http://egmontmika.com/blog/just-do-it%21/</guid>
       <description>&lt;p&gt;There is no better way of teaching and learning than the hands-on training in real life situations.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -464,10 +464,10 @@ If you expected it to just take you from success to success and “from glory to
     
     <item>
       <title>Dealing with the Shameful</title>
-      <link>http://localhost:1313/blog/dealing-with-the-shameful/</link>
+      <link>http://egmontmika.com/blog/dealing-with-the-shameful/</link>
       <pubDate>Wed, 04 Feb 2015 03:01:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/dealing-with-the-shameful/</guid>
+      <guid>http://egmontmika.com/blog/dealing-with-the-shameful/</guid>
       <description>
 
 &lt;p&gt;There are certain things I absolutely don’t feel happy to talk about.&lt;/p&gt;
@@ -516,10 +516,10 @@ If you expected it to just take you from success to success and “from glory to
     
     <item>
       <title>Ranking Jesus&#39; Words</title>
-      <link>http://localhost:1313/blog/ranking-jesus-words/</link>
+      <link>http://egmontmika.com/blog/ranking-jesus-words/</link>
       <pubDate>Thu, 22 Jan 2015 03:01:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ranking-jesus-words/</guid>
+      <guid>http://egmontmika.com/blog/ranking-jesus-words/</guid>
       <description>&lt;p&gt;Jesus said: “Go and make disciples!” As a disciple of Jesus, how do those words rank on your list?&lt;/p&gt;
 
 &lt;p&gt;When you think of your work, your spare time, your daily routines, and weekly obligations, including your spiritual engagements and church activities, where on that list would you place your response to Jesus’ words about making disciples?&lt;/p&gt;
@@ -540,10 +540,10 @@ If you expected it to just take you from success to success and “from glory to
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://egmontmika.com/about/</link>
       <pubDate>Sat, 17 Jan 2015 22:10:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://egmontmika.com/about/</guid>
       <description>
 
 &lt;p&gt;I am Egmont Mika, a teacher and a mentor, passionate about God and people.
